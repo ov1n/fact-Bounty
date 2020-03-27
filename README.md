@@ -85,6 +85,7 @@ Run npm install in fact-bounty-client folder.
 
 *   #### Install your requirements
     ```
+        cd fact-bounty-flask/
         (venv)$ pip install -r requirements.txt
     ```
 
